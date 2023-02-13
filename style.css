@@ -1,0 +1,178 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.cls1{
+    width: 70px;
+    height: 70px;
+    display: inline;
+    float: left;
+    margin-top: 1cm;
+    margin-left: 2cm;
+}
+
+.h1{
+    color: royalblue;
+    font-size: 1.3cm;
+    display:inline;
+    float: left;
+    margin-top: 1.2cm;
+    margin-left: 6px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.i{
+    display: inline;
+    float: left;
+    margin-top: 1.5cm;
+    font-size: large;
+    width: 2.8cm;
+    height: 1.5cm;
+    color: royalblue;
+    border-color: white;
+}
+.i:hover{
+    color: rgb(92, 25, 155);
+    font-weight: 600;
+}
+.a{
+    margin-left: 9cm;
+
+}
+.b{
+    margin-left: 0.5cm;
+}
+.c{
+    margin-left: 0.5cm;
+    width: 4cm;
+}
+.cls2{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+    margin-top: 0.5cm;
+}
+.h2{
+    font-weight: bolder;
+    font-size: 1.5cm;
+}
+.d2{
+    text-align: center;
+    color: white;
+    position: relative;
+}
+.d3{
+    position: absolute;
+    top: 4cm;
+    left: 13cm;
+}
+.d4{
+    position: absolute;
+    top: 7cm;
+    left: 6cm;
+    font-size: large;
+}
+.d5{
+    position: absolute;
+    top: 10cm;
+    left: 9cm;
+}
+#aa{
+    width: 30cm;
+    height: 1.5cm;
+    font-size: 0.5cm;
+}
+.p{
+    margin-left: 3cm;
+}
+.a1{
+    font-size: 2cm;
+}
+.a2{
+    font-size: 0.6cm;
+}
+.h3{
+    font-size: 1cm;
+    margin-left: 2cm;
+}
+.d6{
+    width: 300px;
+    height: 800px;
+    margin-left: 3.7cm;
+    margin-top: 2cm;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+.d7{
+    width: 250px;
+    height: 700px;
+    margin: 10px;
+    position: absolute;
+    border-width: 5px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.377);
+}
+.cls3{
+    width: 230px;
+    height: 280px;
+    /* margin-top: 5px; */
+}
+.w2{
+    left: 300px;
+}
+.w3{
+    left: 600px;
+}
+.w4{
+    left: 900px;
+}
+.w5{
+    left: 1200px;
+}
+.cls4{
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 10cm;
+}
+.x{
+    position: relative;
+}
+.y{
+text-align: center;
+    position: absolute;
+    top: 1cm;
+    /* left: 1cm; */
+}
+#y{
+    color: white;
+    font-size: larger;
+}
+.hh{
+    display: inline;
+    color: white;
+    width: 0.5cm;
+    height: 1cm;
+    text-decoration: underline;
+}
+.y2{
+    left: 500px;
+}
+.y3{
+    left: 900px;
+}
+.y4{
+    left: 1300px;
+}
+.y5{
+    color: white;
+    margin-top: 7.7cm;
+    left: 1cm;
+}
